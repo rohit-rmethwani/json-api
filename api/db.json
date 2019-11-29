@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post one",
+      "body": "This is the body of post one",
+      "auhor": "Abcd"
+    },
+    {
+      "title": "abcdasdcsd",
+      "body": "This is the body of post two",
+      "author": "undefined",
+      "id": 2
+    },
+    {
+      "title": "abcd",
+      "author": "afdfsfds",
+      "body": "abcd",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Body of comment 1",
+      "postId": 1
+    }
+  ]
+}
